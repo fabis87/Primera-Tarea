@@ -47,4 +47,3 @@ echo "El tercer elemento del arreglo es: " . $arreglo[2] . "<br>";
 ?>
 
 
-?>
